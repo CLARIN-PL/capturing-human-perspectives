@@ -1,0 +1,39 @@
+username;Co byś zmieniła/zmienił w badaniu?;Czy któreś pytanie/polecenie dotyczące tekstu było niezrozumiałe?;Jak często powinno się robić przerwy w pracy anotacyjnej?;Jak długie powinno się robić przerwy w pracy anotacyjnej?;Tekstów było?Jaka liczba tekstów byłaby odpowiednia?;updated_at
+1;usunąć skalę emocji, usunąć pytanie czy kogoś coś obraża i śmieszy, dostosować odpowiedzi do tekstu- niektóre odpowiedzi nie przystają do tekstu, albo dą możliowść zazanaczenia przy odpowiedzi opcji -niezwiązane z tekstem;"Tak_multiple-values_[""etc? Dlaczego?_single-value_pytania czy tekst kogos obraża lub śmieszy, pytanie powinno ograniczyć się tylko do pierwszej części""]";często;krótkie;za dużo_single-value_15;2023-02-21 08:01:15.759266+00
+2;czasami chciałabym napisać coś od siebie na temat tekstu poniewaz niektóre nie są jednoznaczne;Nie;po 10 anotacjach;15 min;za dużo_single-value_10;2023-02-21 18:23:42.130358+00
+2;nie wiem;Nie;10;15;za dużo_single-value_10;2023-02-23 18:09:50.766035+00
+4;podzieliłabym paczki na 10 tekstów.;Nie;uważam, że co 10 tesktów należy odejść od komputera na 3 minutki to jest wystarczające.;3 min.;w sam raz;2023-02-28 09:29:20.099475+00
+5;brak pytań o opisanie słowami tekstu;Nie;co 2 sesje;5-10 minut;w sam raz;2023-03-08 15:15:52.847902+00
+6;nic;Nie;1h;20min;w sam raz;2023-03-07 13:02:49.046908+00
+7;już wypełniałam 2 razy;Tak;po każdej paczce;5-15 min;za dużo;2023-02-23 13:11:19.976413+00
+8;PŁYNNOŚĆ DZIAŁANIA PLATFORMY;"Tak_multiple-values_[""Jakie wrażenia/emocje/odczucia wzbudza w Tobie ten tekst? Dlaczego?_single-value_CZASEM TRUDNO OPISAĆ EMOCJE""]";1 DZIEŃ;5 MIN;za dużo_single-value_20;2023-02-21 12:53:38.214191+00
+9;doprecyzowała skalę (1-10 jest za duża), dodała wyjaśnienie czy np. 1 to brak odczuwania danej emocji, czy odczuwanie emocji na minimalnym poziomie, zamiast skali (szczególnie w pytaniach czy tekst może kogoś obrazić czy rozśmieszyć) dałabym odpowiedzi tak/nie.;"Tak_multiple-values_[""Jakie wrażenia/emocje/odczucia wzbudza w Tobie ten tekst? Dlaczego?_single-value_trzeba było podać minimum dwie emocje, a czasem teksty nie wzbudząły żadnych emocji""]";to pytanie pojawiło się 3 sekundy temu. Tak jak pisałam, mogą być przerwy po 20 anotacjach, ale jeśli zaczyna się od połowy paczki, to niech system nie wymusza przerwy po zakończeniu paczki;5 minut jest ok;za dużo_single-value_10;2023-02-22 11:49:24.824051+00
+10;więcej pozytywnych dowcipnych tekstów;Nie;to zależy od kilku czynników -naszgo zmęczenia, pory dnia, nacechowania emocjonalnego tekstów.;Od 5-20 minut;w sam raz;2023-02-22 09:09:44.762414+00
+13;nie wiem;Nie;co 20 pytań;10 minutowe;w sam raz;2023-03-12 19:24:23.446692+00
+14;DODANIE OKIENKA DO ODPOWIEDZI OTWARTEJ;Nie;CO 20 TEKSTÓW;5 MIN;za dużo_single-value_20;2023-02-22 19:46:55.592625+00
+15;nic;Nie;co pół godziny ciągłej pracy;5 min;w sam raz;2023-03-06 06:28:30.116841+00
+16;aby wartosci 0 były zaznaczone domyslnie (automatycznie);Nie;co 5-10 tekstow;5 min;za dużo_single-value_10;2023-03-06 10:34:54.514025+00
+17;teksty, aby były bardzie zrozumiałe, mniej wulgarne, jakies konkretne tematy, a nie jakby wrzucone z dupy;Nie;jak kto chce;jak kto chce;za dużo_single-value_15;2023-02-23 09:27:56.989017+00
+18;Nic;Nie;Co pakiet;5min;w sam raz;2023-02-22 11:21:56.653251+00
+19;ilośc tekstów w paczce tak aby badanie nie było męczące i nużące;Nie;30 min;5-10 min;za dużo_single-value_15;2023-02-28 14:07:39.962932+00
+20;nic;Nie;co 10;5 min;za dużo_single-value_20;2023-02-23 08:54:48.671879+00
+21;nie mam propozycji;Nie;co 10 testów;5 min;w sam raz;2023-02-22 12:20:33.076796+00
+22;już opisałam poprzednim razem;Nie;min. godzina;15 min;za dużo_single-value_15;2023-02-22 11:23:49.923493+00
+23;ilość;Nie;15;15;za dużo_single-value_20;2023-02-22 07:58:29.034131+00
+23;mniej ankiet;Nie;15;15;za dużo_single-value_20;2023-02-23 10:30:13.989619+00
+24;Pytanie powielone, odpowiedź umieszczona poprzedniej stronie ankiety.;Nie;co godzinę;30 minut;w sam raz;2023-03-03 10:11:26.308409+00
+26;"Brakuje znacznika ""nie wiem"" na pytanie ""czy cię bawi lub śmieszy"" lub ""czy cię obraża lub kogoś może obrażać""";Nie;Po każdym zestawie 20 zagadnień;Należy odpowiedzieć na od 300 do 600 zagadnień miesięcznie;za dużo_single-value_9;2023-02-23 09:32:03.411058+00
+27;poza tym żeby w ciągu jednej grupy anotacji nie było ciagiem negatywnych wulgarnych tekstów to wywołuje irytację;"Tak_multiple-values_[""Jakie wrażenia/emocje/odczucia wzbudza w Tobie ten tekst? Dlaczego?_single-value_negatywne""]";co 10 anotacji;co najmniej 1 godzina;w sam raz;2023-03-01 12:16:23.685332+00
+28;nie wiem;"Tak_multiple-values_[""Jakimi słowami opisałbyś ten tekst (tagi, słowa kluczowe)? Dlaczego?_single-value_czasami nie dało się tego nazwać precyzyjnie""]";co 30 minut;15 minut;za dużo_single-value_10;2023-02-28 08:41:17.781526+00
+29;Informuję mejlowo na bieżąco.;Nie;co godzinę lub 10 tekstów;10 minut (5 to za mało);w sam raz;2023-03-11 08:05:43.692161+00
+30;nic;"Tak_multiple-values_[""etc? Dlaczego?_single-value_czy czujesz sympatie do autora""]";co 20 pytań;okresowo z przerwami;w sam raz;2023-02-23 09:38:29.189012+00
+32;usunąć błędy w działaniu aplikacji (obsługa wyskakujących okienek);Nie;Jest to sprawa indywidualna, zależna również od paczki komentarzy. Uśredniając raz na pół godziny.;5 minut;w sam raz;2023-03-07 08:51:30.973884+00
+35;Wszystko OK;Nie;Po każdej paczce;5-10 min;w sam raz;2023-03-07 12:55:36.289485+00
+36;ilość tekstów, czasem nie mogłam znaleźć klucza;Nie;1 na 15 min;3 mni;za dużo_single-value_20;2023-02-22 20:44:44.384374+00
+36;20 tekstów na dzień bardziej zrozumiałych;"Tak_multiple-values_[""Jakimi słowami opisałbyś ten tekst (tagi, słowa kluczowe)? Dlaczego?_single-value_czasem słowo tag u mnie potrzebuje kilku słów wyjaśnień""]";co 15 min;3 min;za dużo_single-value_20;2023-02-23 19:04:18.79052+00
+37;nic;Nie;co 30 minut;30 minut;w sam raz;2023-02-22 09:37:34.353973+00
+37;nic;Nie;co 30 minut;30 minut;w sam raz;2023-02-23 07:57:51.353411+00
+38;NIE ROBIŁBYM TAKICH SAMYCH TEKSTÓW RAZ NA JAKIŚ CZAS, PONIEWAŻ ODECHCIEWA SIĘ NA NIE ODPOWIADAĆ;Nie;KRÓTKA PRZERWA PO 5 TEKSTACH I DŁUŻSZA PO 10;KRÓTKA PRZERWA 5 MINUT DŁUŻSZA 15 MINUT;za dużo_single-value_20;2023-02-21 09:21:07.449244+00
+38;MNIEJ TEKSTÓW, BEZ POWTÓREK;Nie;CO 5 TEKSTÓW;5 MINUT;za dużo_single-value_20;2023-02-22 08:28:21.232304+00
+38;MNIEJ TEKSTÓW, BEZ POWTÓREK;Nie;CO 5 TEKSTÓW;5 MINUT;za dużo_single-value_20;2023-02-23 08:21:15.710896+00
+39;mniejsza ilość pytań;Nie;co 10 pytań;10 minut;za dużo_single-value_20;2023-02-24 08:12:53.984101+00
